@@ -162,5 +162,4 @@ El santuario de la selva es una estructura exclusiva de la versión móvil, que 
 
 ### Santuario de corazón
 
-
 El santuario de corazón es una estructura única en la versión móvil que aparece en la tundra subterránea. Contiene dos cristales de vida y un cofre con objetos de corazón.
