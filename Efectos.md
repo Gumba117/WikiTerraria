@@ -1,7 +1,5 @@
 # Efectos
 
-## Buffs
-
 Los buffs son mejoras temporales que el jugador obtiene al usar o equipar ciertos objetos. Los buffs activos se muestran debajo de los iconos de acceso rápido, junto con su duración restante. Estos efectos son casi siempre positivos o tienen al menos un componente positivo.
 
 Pueden activarse de forma rápida con la tecla de acceso rápido (por defecto, B), lo que consumirá todos los objetos del inventario que otorguen un buff. Un jugador puede tener hasta 22 buffs activos; si se añade otro, reemplazará al primero. La mayoría de los buffs pueden desactivarse haciendo clic sobre ellos (debajo de la barra de acceso rápido), mientras que algunos, como los otorgados por ciertos accesorios, se desactivan manualmente al desequipar el objeto.
