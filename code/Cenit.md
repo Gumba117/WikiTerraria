@@ -1,4 +1,12 @@
-# Cénit
+---
+layout: layout-post.njk
+title: Cénit
+description: Meta descripción de la página de Cénit
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Cénit
 
 La Cénit (Zenith, en inglés) es el arma cuerpo a cuerpo más poderosa del juego. Solo se puede obtener después de derrotar al Señor de la Luna al menos dos veces en el modo difícil. Esta espada es una de las más difíciles de conseguir en el juego.
 

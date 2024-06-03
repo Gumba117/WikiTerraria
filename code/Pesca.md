@@ -1,4 +1,12 @@
-# Pesca
+---
+layout: layout-post.njk
+title: Pesca
+description: Meta descripción de la página de Pesca
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Pesca
 
 La pesca es una mecánica que permite obtener diversos objetos mediante el uso de una caña de pescar y un cebo en agua, lava o miel
 

@@ -1,4 +1,12 @@
-# Biomas
+---
+layout: layout-post.njk
+title: Biomas
+description: Meta descripción de la página de Biomas
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Biomas
 
 Los biomas son distintas áreas que pueden encontrarse en el mundo de Terraria. Cada bioma tiene bloques característicos, objetos, estructuras, paredes, enemigos, música y otras particularidades.
 

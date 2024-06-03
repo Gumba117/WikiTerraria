@@ -1,4 +1,12 @@
-# Minerales
+---
+layout: layout-post.njk
+title: Minerales
+description: Meta descripción de la página de Minerales
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Minerales
 
 Los minerales (Ores en inglés) son elementos esenciales en el juego, ya que permiten la creación de una amplia variedad de objetos útiles, como armaduras, armas, herramientas y decoraciones, aunque no todos son necesarios. También se utilizan en la elaboración de pociones, como la poción de piel de hierro o la poción de espeleólogo.
 

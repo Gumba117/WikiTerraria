@@ -1,4 +1,12 @@
-# Bolsas de Tesoro
+---
+layout: layout-post.njk
+title: Bolsas de Tesoro
+description: Meta descripción de la página de Bolsas de Tesoro
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Bolsas del Tesoro
 
 Las bolsas del tesoro (Treasure Bag en inglés) son ítems consumibles únicos obtenidos al vencer a los jefes con el modo experto activado. El contenido de cada bolsa varía según el jefe derrotado. En multijugador, cada jefe derrotado dejará una bolsa por cada jugador que haya participado en la pelea (cada jugador solo puede obtener una bolsa por jefe).
 

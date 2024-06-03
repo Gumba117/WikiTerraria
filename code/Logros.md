@@ -1,4 +1,12 @@
-# Logros
+---
+layout: layout-post.njk
+title: Logros
+description: Meta descripción de la página de Logros
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Logros
 
 Los logros fueron introducidos en la versión 1.3.0.1 para PC/Consolas/Móvil y en la versión 1.0 para las consolas antiguas. Constituyen recompensas otorgadas al jugador por completar acciones específicas o cumplir ciertas misiones. Aunque están disponibles en las versiones piratas de Terraria, también se muestran en las secciones dedicadas a los logros en Steam.
 

@@ -1,4 +1,12 @@
-# La Emperatriz de la Luz
+---
+layout: layout-post.njk
+title: La Emperatriz de la Luz
+description: Meta descripción de la página de La Emperatriz de la Luz
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## La Emperatriz de la Luz
 
 La Emperatriz de la Luz es un jefe del modo difícil que se encuentra en La Bendición.
 

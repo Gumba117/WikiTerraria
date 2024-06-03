@@ -1,4 +1,12 @@
-# Efectos
+---
+layout: layout-post.njk
+title: Efectos
+description: Meta descripción de la página de Efectos
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Efectos
 
 Los buffs son mejoras temporales que el jugador obtiene al usar o equipar ciertos objetos. Los buffs activos se muestran debajo de los iconos de acceso rápido, junto con su duración restante. Estos efectos son casi siempre positivos o tienen al menos un componente positivo.
 

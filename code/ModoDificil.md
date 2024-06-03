@@ -1,4 +1,12 @@
-# Modo difícil
+---
+layout: layout-post.njk
+title: Modo difícil
+description: Meta descripción de la página de Modo difícil
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Modo difícil
 
 El Modo difícil representa la segunda fase del juego en Terraria, que se activa de forma irreversible después de derrotar al Muro Carnoso. Para activarlo, se requiere lanzar un muñeco vudú del guía a la lava, específicamente en el inframundo. Esta activación solo puede realizarse una vez por mundo, y aunque el Muro Carnoso sea derrotado nuevamente, el mundo no volverá a cambiar ni se volverá más difícil.
 

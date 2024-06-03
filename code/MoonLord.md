@@ -1,4 +1,12 @@
-# MoonLord
+---
+layout: layout-post.njk
+title: MoonLord
+description: Meta descripción de la página de MoonLord
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## MoonLord
 
 El Señor de la Luna es el jefe final de Terraria. Es el jefe más difícil después de la Emperatriz de la Luz del Día y el que requiere mayor esfuerzo para ser convocado porque hay que pasar el evento lunar, por lo que si el jugador muere en la pelea del jefe tendrá que repetir el evento y si Ya lo tiene completo, con 20 de cada fragmento podrá crear el Sello Celestial.
 

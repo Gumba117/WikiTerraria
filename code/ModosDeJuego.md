@@ -1,4 +1,12 @@
-# Modos de Juego
+---
+layout: layout-post.njk
+title: Modos de Juego
+description: Meta descripción de la página de Modos de Juego
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Modos de Juego
 
 En Terraria hay distintos modos de juego, tanto para el personaje, el mundo y el progreso dentro del juego. Estos modos van a cambiar la manera de jugar al juego, generalmente recompensando mayor dificultad con más y mejores objetos.
 

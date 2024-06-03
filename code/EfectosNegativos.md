@@ -1,4 +1,12 @@
-# Debuffs
+---
+layout: layout-post.njk
+title: Debuffs
+description: Meta descripción de la página de Debuffs
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Debuffs
 
 Los debuffs, también conocidos como efectos negativos, son condiciones que afectan al jugador con efectos adversos durante un periodo de tiempo determinado. A diferencia de los buffs, que son beneficiosos y pueden ser cancelados al hacer clic derecho en su icono, los debuffs persisten hasta que su duración expira o hasta que son eliminados por medios específicos.
 

@@ -1,4 +1,12 @@
-# Casas
+---
+layout: layout-post.njk
+title: Casas
+description: Meta descripción de la página de Casas
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Casas
 
 Una casa (o hogar) es una estructura creada por el jugador y utilizada por los NPCs como vivienda, con un NPC por cada casa construida. Los NPCs se refugian en sus casas durante la noche y en eventos. Las camas solo pueden usarse dentro de una casa.
 

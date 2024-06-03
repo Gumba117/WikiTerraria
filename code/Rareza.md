@@ -1,4 +1,12 @@
-# Rareza
+---
+layout: layout-post.njk
+title: Rareza
+description: Meta descripción de la página de Rareza
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Rareza
 
 La calidad en Terraria generalmente se considera como una medida de la dificultad para obtener un artículo y/o su valor.
 

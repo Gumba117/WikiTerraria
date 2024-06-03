@@ -1,4 +1,13 @@
-# Eventos
+---
+layout: layout-post.njk
+title: Eventos
+description: Meta descripción de la página de Eventos
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+
+## Eventos
 
 Los eventos son sucesos especiales donde aparecen enemigos únicos. Algunos ocurren aleatoriamente, mientras que otros requieren el uso de ciertos invocadores o cumplen con requisitos específicos. Los enemigos de eventos no aparecen durante el juego normal y pueden dejar objetos exclusivos mientras el evento dura. Además, tienen su propia música ambiental, lo que ayuda a diferenciarlos del juego normal. Dependiendo del tipo de evento, este puede terminar después de un tiempo específico o al derrotar a un cierto número de enemigos.
 

@@ -1,4 +1,12 @@
-# Clases
+---
+layout: layout-post.njk
+title: Clases
+description: Meta descripción de la página de Clases
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Clases
 
 Terraria no cuenta con clases formales, ni con un sistema de niveles. Pero las armas se pueden agrupar en cuatro categorías según el tipo de daño: Cuerpo a cuerpo, a distancia, mágicas e invocador. Cada clase tiene fortalezas y debilidades, cada una tiene una variedad amplia de armas para elegir. Así mismo hay armaduras que tienen efectos sobre el tipo de daño volviéndose ideales al momento de escoger tu arma favorita.
 

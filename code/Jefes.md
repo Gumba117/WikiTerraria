@@ -1,4 +1,12 @@
-# Jefes
+---
+layout: layout-post.njk
+title: Jefes
+description: Meta descripción de la página de Jefes
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Jefes
 
 Los jefes son los enemigos más poderosos en términos de daño y resistencia, y suelen tener patrones de ataque únicos, así como una forma distintiva. Pueden aparecer de forma natural bajo ciertas condiciones o ser invocados utilizando objetos específicos. En el modo experto, son aún más formidables, algunos incluso adoptan una forma adicional, y su derrota deja objetos únicos en bolsas de tesoro, como los objetos de los desarrolladores. En el modo Maestro, son aún más poderosos que en el modo experto y al ser derrotados, dejan reliquias, mascotas o monturas exclusivas.
 

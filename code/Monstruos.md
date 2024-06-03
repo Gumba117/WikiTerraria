@@ -1,4 +1,12 @@
-# Monstruos
+---
+layout: layout-post.njk
+title: Monstruos
+description: Meta descripción de la página de Monstruos
+tags: ["blog"]
+date: "2024-06-02"
+---
+
+## Monstruos
 
 Los monstruos o criaturas son todos seres vivos con capacidad de interactuar, ya sean animales, insectos o enemigos. En Terraria existen 2 tipos de monstruos, pasivos (animales) y agresivos (enemigos). Los monstruos también tienen la capacidad de saltar obstáculos, abrir puertas, bajar plataformas, caminar sobre lava, caminar sobre agua, etc.
 
