@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Rareza
 
 La calidad en Terraria generalmente se considera como una medida de la dificultad para obtener un artículo y/o su valor.
@@ -189,3 +191,5 @@ Algunos ejemplos son:
 - Reliquias de Jefes
 - El Punto Negro
 - Ojo Sonriente Sospechoso
+
+</article>

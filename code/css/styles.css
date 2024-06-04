@@ -16,6 +16,10 @@ body{
   /*color: var(--color-letra);*/
 }
 
+.filtro{
+  display: none;
+}
+
 /*
 :
 body{

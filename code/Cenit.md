@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Cénit
 
 La Cénit (Zenith, en inglés) es el arma cuerpo a cuerpo más poderosa del juego. Solo se puede obtener después de derrotar al Señor de la Luna al menos dos veces en el modo difícil. Esta espada es una de las más difíciles de conseguir en el juego.
@@ -47,3 +49,5 @@ Las dos espadas adicionales ajustan automáticamente su trayectoria antes de ser
 - La Cénit no se puede forjar con la Espada corta de estaño de la Espada corta de cobre.
 - Ninguna de las espadas con las que se fabrica la Cénit tiene ataques parecidos a la Terragrim o la Arkhalis, a pesar de eso la Cénit si tiene un ataque aparecido a la Terragrim y la Arkhalis.
 - La velocidad de ataque no afecta a la cénit en forma de daño, a pesar de eso la tiene diferencias de sonido y diferencias Cénit visuales, se destaca que entre mas velocidad de ataque menos se ven las espadas con las que se fabrica y se visualiza la espada en si.
+
+</article>

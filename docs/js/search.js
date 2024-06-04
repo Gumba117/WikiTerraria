@@ -4,7 +4,7 @@ document.addEventListener("keyup", e=>{
 
       if (e.key ==="Escape")e.target.value = ""
 
-      document.querySelectorAll(".articulo").forEach(article =>{
+      document.querySelectorAll(".article").forEach(article =>{
 
           article.textContent.toLowerCase().includes(e.target.value.toLowerCase())
             ?article.classList.remove("filtro")

@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Casas
 
 Una casa (o hogar) es una estructura creada por el jugador y utilizada por los NPCs como vivienda, con un NPC por cada casa construida. Los NPCs se refugian en sus casas durante la noche y en eventos. Las camas solo pueden usarse dentro de una casa.
@@ -108,3 +110,5 @@ Los siguientes botones muestran los NPCs vivos en el mundo. Para mover un NPC a 
 - Cada casa puede estar unida con otra y compartir una pared, el techo, el suelo o una puerta. También las casas pueden estar divididas con plataformas, sustituyendo las puertas.
 - De noche, los NPCs serán movidos automáticamente a su respectiva casa cuando el jugador se aleje lo suficiente.
 - Si una casa usa paredes de piedra y estas son transformadas en piedra perlada,carmesí o de ébano la casa se volverá inhabitable.
+
+</article>

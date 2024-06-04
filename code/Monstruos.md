@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Monstruos
 
 Los monstruos o criaturas son todos seres vivos con capacidad de interactuar, ya sean animales, insectos o enemigos. En Terraria existen 2 tipos de monstruos, pasivos (animales) y agresivos (enemigos). Los monstruos también tienen la capacidad de saltar obstáculos, abrir puertas, bajar plataformas, caminar sobre lava, caminar sobre agua, etc.
@@ -326,3 +328,5 @@ Estan divididos por bioma.
 | Abejas                        | 10-20   | 15-20     | 2-5     | Colmenas                      | Al romper los bloques     |
 | Criatura selvática            | 120     | 50        | 14      | Subterránea                   | Siempre                   |
 | Polilla                       | 1,000   | 70        | 28      | Subterránea                   | Siempre                   |
+
+</article>

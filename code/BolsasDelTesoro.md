@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Bolsas del Tesoro
 
 Las bolsas del tesoro (Treasure Bag en inglés) son ítems consumibles únicos obtenidos al vencer a los jefes con el modo experto activado. El contenido de cada bolsa varía según el jefe derrotado. En multijugador, cada jefe derrotado dejará una bolsa por cada jugador que haya participado en la pelea (cada jugador solo puede obtener una bolsa por jefe).
@@ -229,3 +231,5 @@ Las bolsas de los jefes en modo difícil tienen un 5% de probabilidad de incluir
 | Bengala lunar                   | 11%          | 1         |
 | Báculo de cristal arcoíris      | 11%          | 1         |
 | Báculo del portal lunar         | 11%          | 1         |
+
+</article>

@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## La Emperatriz de la Luz
 
 La Emperatriz de la Luz es un jefe del modo difícil que se encuentra en La Bendición.
@@ -65,3 +67,5 @@ Además de aumentar su salud y daño en modo experto, también dispara proyectil
 - Emperatriz de la Luz y Plantera son los únicos jefes que dejan instrumentos, en este caso siendo Stellar Tune.
 - Este jefe, el gólem, Betsy, Ocram, Lepus y el sectario lunático son los únicos seis jefes con piernas.
 - Los desarrolladores de Terraria han confirmado que lo que parece ser “su boca” es en realidad su nariz.
+
+</article>

@@ -6,6 +6,7 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
 
 ## Eventos
 
@@ -274,3 +275,5 @@ Los Eventos Lunares se desencadenan después de vencer al Sectario Lunático. El
 ### Al derrotar los cuatro pilares
 
 - Señor de la Luna
+
+</article>

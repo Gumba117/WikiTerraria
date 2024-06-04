@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Fulgor
 
 El Fulgor (conocido en inglés como Shimmer) es un líquido resplandeciente y perlado de color lavanda. Se puede hallar en cantidades limitadas en el Éter, un bioma raro que se genera una vez por mundo a nivel de las Cavernas (muy raramente a nivel del Subsuelo), siempre debajo del bioma Océano y del lado del mapa opuesto a la mazmorra. Alternativamente, se puede obtener usando el Cubo de fulgor sin fondo, una vez derrotado el Señor de la Luna.
@@ -87,3 +89,5 @@ Cuando entra en contacto con otros líquidos, como Agua o Lava, se transforma en
 | Diamante | Rubí | n/a |
 | Bloque de mármol | Bloque de granito | n/a |
 | Bloque de granito | Bloque de mármol | n/a |
+
+</article>

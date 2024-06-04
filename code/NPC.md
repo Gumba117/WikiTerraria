@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## NPC
 
 Los NPC ("personajes no jugadores") o NPC (personajes no jugables) son personajes que el jugador no puede controlar. 28 versión para PC / 23 versión para consola / 22 versión para móvil / 21 versión para consola antigua / 19 versión para 3DS Hay 31 en total, incluyendo la necesidad de casas para que vivan los NPC. Otras 3 versiones para la versión para consola de PC Versión móvil / versión para consola antigua Versiones 2/1 de 3DS no portadas a hogares. Todos los NPC pueden recibir daño de los monstruos excepto el anciano. Tienen 15 de salud y defensa. Como jugadores, vuelven a la vida con el tiempo. Cuando un NPC muere por cualquier motivo; Siempre que tengas una habitación vacía y tus necesidades estén cubiertas, aparecerá después de un tiempo.
@@ -174,3 +176,5 @@ Esta estadística afecta el precio de venta de los artículos, que puede ser may
 - El nombre del guía es Andrew, y si muere, dejará el Boina Verde.
 - Originalmente pensé en agregar un NPC de cactus, pero descarté la idea y la reemplacé con una trufa.
 - Perro princesa pescadora. Cuando el gato y el conejo murieron, aparece el mensaje "(nombre del NPC) ha desaparecido" en lugar del mensaje de muerte del NPC original.
+
+</article>

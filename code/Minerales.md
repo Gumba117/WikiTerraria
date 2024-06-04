@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Minerales
 
 Los minerales (Ores en inglés) son elementos esenciales en el juego, ya que permiten la creación de una amplia variedad de objetos útiles, como armaduras, armas, herramientas y decoraciones, aunque no todos son necesarios. También se utilizan en la elaboración de pociones, como la poción de piel de hierro o la poción de espeleólogo.
@@ -139,3 +141,5 @@ Existen 23 lingotes en el juego.
 - Algunos lingotes reemplazan a otros.
 - Los lingotes espectrales son los únicos objetos que se fabrican en pares.
 - Algunos lingotes pueden reemplazar a otros, pero hay muchas formas de obtener lingotes o minerales sin cambiar el mundo ni abandonarlo. Entre ellas se incluyen principalmente: Expriminator es una de las principales y recomiendo buscar lingotes o minerales del modo difícil. Cajas obtenidas de la pesca.
+
+</article>

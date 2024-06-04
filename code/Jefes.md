@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Jefes
 
 Los jefes son los enemigos más poderosos en términos de daño y resistencia, y suelen tener patrones de ataque únicos, así como una forma distintiva. Pueden aparecer de forma natural bajo ciertas condiciones o ser invocados utilizando objetos específicos. En el modo experto, son aún más formidables, algunos incluso adoptan una forma adicional, y su derrota deja objetos únicos en bolsas de tesoro, como los objetos de los desarrolladores. En el modo Maestro, son aún más poderosos que en el modo experto y al ser derrotados, dejan reliquias, mascotas o monturas exclusivas.
@@ -63,3 +65,5 @@ En la versión de PC, aparece una barra de vida del jefe en la parte inferior de
 |Columna de nebulosa     |Evento lunar        |Es una de las torres celestiales aparece en el mapa después de derrotar al sectario lunático. Este no realiza ataques ni tampoco al contacto. Al acercarse a el, se pondrá todo el cielo rosa con tonos oscuros. Al comienzo de la batalla, como todos los pilares, tiene un escudo e invocará enemigos con ataques similares a los magos, para romper el escudo hay que matar 100 de estos enemigos los cuales son: flotante de nebulosa, lactacerebros, predictor y bestia evolutiva. Derrotar al pilar dará fragmentos de nebulosa.|
 |Columna de vórtice      |Evento lunar        |Es una de las torres celestiales aparece en el mapa después de derrotar al sectario lunático. Este no realiza ataques ni tampoco al contacto. Al acercarse a el, se cambiará el fondo del mundo a un color verde azulado. Al comienzo de la batalla, como todos los pilares, tiene un escudo defensivo e invocará enemigos con ataques a distancia, para romper el escudo hay que matar 100 de estos enemigos la cual son: vorticiano, reina alienígena, avispa alienígena, larva alienígena y navegatormentas. Derrotar al pilar dará fragmentos de vórtice.|
 |Columna de polvo estelar|Evento lunar        |Es una de las torres celestiales aparece en el mapa después de derrotar al sectario lunático. Este no realiza ataques ni tampoco al contacto. Al acercarse a el, se cambiará el fondo del mundo donde se pondrá todo el cielo celeste oscuro. Al comienzo de la batalla, como todos los pilares, tiene un escudo defensivo e invocará enemigos con ataques similares a los invocadores, para erradicar el escudo hay que matar 100 de estos enemigos la cual son: célula estelar, invasor del ritmo, lanzacentelleos, lanzacentelleos, tejedor de la vía láctea, observaestrellas. Derrotar al pilar dará fragmentos de polvo estelar.|
+
+</article>

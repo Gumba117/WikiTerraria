@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## MoonLord
 
 El Señor de la Luna es el jefe final de Terraria. Es el jefe más difícil después de la Emperatriz de la Luz del Día y el que requiere mayor esfuerzo para ser convocado porque hay que pasar el evento lunar, por lo que si el jugador muere en la pelea del jefe tendrá que repetir el evento y si Ya lo tiene completo, con 20 de cada fragmento podrá crear el Sello Celestial.
@@ -51,3 +53,5 @@ El Señor de la Luna vuela en el fondo, permaneciendo cerca del jugador y teletr
 - A pesar de que Cenx haya dicho que el Señor de la Luna es el hermano de Cthulhu, y que la historia de Terraria hable de él como el mismo Cthulhu, en realidad no tienen relación alguna.
 - Según Arkhayla, el Señor de la Luna se llama Steve.
 - Una cosa que lo hace especial es que es el único Monstruo del juego que se posiciona en la parte inferior de la pantalla como si fuera un objeto de Decoración, permitiendo al jugador posicionarse siempre frente a él (a excepción de sus extremidades a través de las cuales ataca y recibe daño).
+
+</article>

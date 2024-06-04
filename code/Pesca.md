@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Pesca
 
 La pesca es una mecánica que permite obtener diversos objetos mediante el uso de una caña de pescar y un cebo en agua, lava o miel
@@ -135,3 +137,5 @@ El mejor cebo es el Cebo de maestro, con un poder del 50%, aunque por sí solo n
 Para pescar Fungifin Amanitia, se necesitará el doble de bloques necesarios para crear el bioma de setas. Aunque el fondo cambie y suene la música de setas, si solo se tienen entre 70 y 100 bloques, no será posible pescarlo. Se recomienda tener al menos 200 bloques de Césped de Champiñón. Consulta la sección de Entornos Artificiales para más detalles.
 
 Para determinar la cantidad de bloques de líquido en lagos cuadrados o rectangulares, se mide el ancho de la capa superficial (donde el anzuelo descansa) y se multiplica por la profundidad.
+
+</article>

@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Efectos
 
 Los buffs son mejoras temporales que el jugador obtiene al usar o equipar ciertos objetos. Los buffs activos se muestran debajo de los iconos de acceso rápido, junto con su duración restante. Estos efectos son casi siempre positivos o tienen al menos un componente positivo.
@@ -92,3 +94,6 @@ Efectos positivos otorgados por accesorios, armas o armaduras al cumplir ciertas
 | Protección sagrada        | Armadura sagrada                 | Esquivar el próximo ataque                                 | 30 segundos |
 | Truco mental cerebral     | Cerebro de confusión             | +10% probabilidad crítica                                  | 4 segundos   |
 | Una buena mejora          | Látigo gélido                     | Invoca un copo de nieve                                    | 3 segundos   |
+
+
+</article>

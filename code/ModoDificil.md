@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Modo difícil
 
 El Modo difícil representa la segunda fase del juego en Terraria, que se activa de forma irreversible después de derrotar al Muro Carnoso. Para activarlo, se requiere lanzar un muñeco vudú del guía a la lava, específicamente en el inframundo. Esta activación solo puede realizarse una vez por mundo, y aunque el Muro Carnoso sea derrotado nuevamente, el mundo no volverá a cambiar ni se volverá más difícil.
@@ -120,3 +122,5 @@ Al comienzo del modo difícil, considera dirigirte a un nido de arañas. Utiliza
 Al ingresar al modo difícil, asegúrate de tener la Hoja de la Noche, ya que es la espada más poderosa disponible en el modo normal. Este consejo es especialmente útil para los guerreros cuerpo a cuerpo.
 
 Es aconsejable crear la Espada Terra antes de enfrentarte a Plantera, ya que obtendrás los ingredientes finales al derrotar a los jefes mecánicos. Este consejo es especialmente útil para los guerreros cuerpo a cuerpo.
+
+</article>

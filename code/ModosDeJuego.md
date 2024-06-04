@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Modos de Juego
 
 En Terraria hay distintos modos de juego, tanto para el personaje, el mundo y el progreso dentro del juego. Estos modos van a cambiar la manera de jugar al juego, generalmente recompensando mayor dificultad con más y mejores objetos.
@@ -111,3 +113,5 @@ La dificultad del mundo en Terraria aumenta conforme avanzas en el juego y derro
 - En los modos experto y maestro, los enemigos comunes obtienen estadísticas mejoradas, lo que aumenta la dificultad.
 
 - Aparecen nuevos minerales mágicos (que son ficticios o no funcionan como en el mundo real), lo que permite la creación de nuevas armas y armaduras.
+
+</article>

@@ -6,6 +6,8 @@ tags: ["blog"]
 date: "2024-06-02"
 ---
 
+<article>
+
 ## Debuffs
 
 Los debuffs, también conocidos como efectos negativos, son condiciones que afectan al jugador con efectos adversos durante un periodo de tiempo determinado. A diferencia de los buffs, que son beneficiosos y pueden ser cancelados al hacer clic derecho en su icono, los debuffs persisten hasta que su duración expira o hasta que son eliminados por medios específicos.
@@ -82,3 +84,5 @@ Los siguientes debuffs se obtienen por consumir un objeto (una poción, por ejem
 | Pico azucarado        | Aumenta un 20% la velocidad de movimiento y de minería                     | 2 minutos       |
 | Quemadura de hielo    | Los jugadores o enemigos afectados pierden la vida con el tiempo y no pueden regenerar la vida | 1 - 8 segundos |
 | Slime                 | El jugador gotea y gana un tinte azul. (visual)                            | 30 segundos      |
+
+</article>
